@@ -22,13 +22,13 @@ Gathering of box office data from reliable sources such as The Movie DB `tmdb.mo
 
 Because it was collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) files that can be opened using spreadsheet software or `pd.read_csv`.
 
-![TMDB logo](http://localhost:8888/view/Images/TMDB.jpg)
+![TMDB logo](https://github.com/SamuelWanga/PHASES/blob/main/Images/TMDB.jpg)
 
-![The Numbers logo](http://localhost:8888/view/Images/The%20Numbers.png)
+![The Numbers logo](https://github.com/SamuelWanga/PHASES/blob/main/Images/The%20Numbers.png)
 
 #### 2. Data Analysis:
 
-![Top 10](http://localhost:8888/view/Images/Top%2010.png)
+![Top 10](https://github.com/SamuelWanga/PHASES/blob/main/Images/Top%2010.png)
 
 ##### Genre Trends
 Among recent successful films, action movies have consistently performed exceptionally well at the box office.
@@ -40,7 +40,7 @@ They appeal to viewers seeking adrenaline-pumping entertainment and thrilling ex
 
 ##### Critical Reception: 
 
-![Corr](http://localhost:8888/view/Images/Correlation.png)
+![Corr](https://github.com/SamuelWanga/PHASES/blob/main/Images/Correlation.png)
 
 Positive Correlation: 
 A positive correlation between popularity and revenue. Notice that movies with higher popularity tend to generate higher revenue.
@@ -67,7 +67,7 @@ Epic storylines and character development through engaging storylines, that reso
 
 ##### Budgeting Strategy
 
-![Corr](http://localhost:8888/view/Images/Oppenheimer.png)
+![Oppenheimer](https://github.com/SamuelWanga/PHASES/blob/main/Images/Oppenheimer.png)
 
 Allocation of resources towards high-quality production values, including top-tier visual effects, talented casts, and experienced directors like Christopher Nolan who is well known for both great quality content in films and personal popularity will boost marketing. While maintaining a competitive budget, prioritize investments that enhance the overall cinematic experience and differentiate Microsoft's films from competitors.
 
